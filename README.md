@@ -1,2 +1,2 @@
 # FINALS-Lab-Exercises
-FINALS Lab Exercises
+FINALS Lab Exercise
